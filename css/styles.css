@@ -1,21 +1,4 @@
-#header-resiences{
-    text-align: center;
-}
-
-
-.Rohan{
-    /* margin: 5px; */
-    /* border: 1px solid #ccc; */
-    /* float: left; */
-    height: 10px;
-    width: 20px;
-    position: absolute;
-    margin: auto;
-    padding: 10px;
-}
-
-/*  Rohanisop*/
-
+@charset "UTF-8";
 /*!
 * Start Bootstrap - Shop Homepage v5.0.5 (https://startbootstrap.com/template/shop-homepage)
 * Copyright 2013-2022 Start Bootstrap
@@ -11303,6 +11286,3 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-/*  Rohanisop*/
-
-
